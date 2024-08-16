@@ -1,0 +1,12 @@
+{
+  "name": "url-validator-framework",
+  "version": "1.0.0",
+  "description": "A framework for validating URLs against a regex pattern and generating results.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {},
+  "author": "",
+  "license": "MIT"
+}
